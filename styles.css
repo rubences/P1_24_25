@@ -1,16 +1,16 @@
 /* Estilos para la página de inicio */
 body {
-    background-color: #f2f2f2;
+    background: linear-gradient(to bottom, #ff99cc, #ffcccc);
     font-family: Arial, sans-serif;
 }
 
 h1 {
-    color: #333;
+    color: red;
     text-align: center;
 }
 
 p {
-    color: #666;
+    color: blue;
     text-align: center;
 }
 
